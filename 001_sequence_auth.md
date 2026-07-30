@@ -9,9 +9,4 @@ database "GitHubEdit" as DB
 A -> S : authRequest()
 activate S
 S -> DB : query Account
-DB --> S : result
-S --> A : 200 OK
-deactivate S
-note right of S : handled by Guest
-@enduml
-```
+
