@@ -1,4 +1,4 @@
-# 066 — Object: Queue
+# 0666666 — Object: Queues
 
 ```plantuml
 @startuml
