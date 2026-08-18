@@ -2,7 +2,7 @@
 
 ```plantuml
 @startuml
-title Queue Objects 66
+title Queue Objects 666
 object "Order #66" as O1 {
   id = 66
   domain = "Queue"
