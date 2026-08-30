@@ -2,7 +2,7 @@
 
 ```plantuml
 @startuml
-title Payment Sequence 24
+title Payment Sequence 15
 actor Admin as A
 participant "Payment Service" as S
 database "PaymentDB" as DB
