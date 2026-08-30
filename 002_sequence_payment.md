@@ -10,7 +10,7 @@ A -> S : paymentRequest()
 activate S
 S -> DB : query Order
 DB --> S : result
-S --> A : 200 OK
+S --> A : 100 OK
 deactivate S
 note right of S : handled by Operator
 @enduml
