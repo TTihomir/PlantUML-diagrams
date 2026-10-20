@@ -11,7 +11,7 @@
 *** Frontend
 *** Invoice module
 ** Release
-*** QA
+*** QA milana tubin
 *** Deploy
 @endwbs
 ```
