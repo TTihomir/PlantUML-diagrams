@@ -2,7 +2,7 @@
 
 ```plantuml
 @startwbs
-* Inventory Project 84
+* Inventory Project Milana Tubin
 ** Initiate
 *** Charter
 *** Stakeholders
@@ -11,7 +11,7 @@
 *** Frontend
 *** Invoice module
 ** Release
-*** QA milana tubin
+*** QA
 *** Deploy
 @endwbs
 ```
