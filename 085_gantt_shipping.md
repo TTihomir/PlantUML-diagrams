@@ -2,7 +2,7 @@
 
 ```plantuml
 @startgantt
-title Shipping Roadmap 85
+title Shipping Roadmap Milana Tubin
 [Design] lasts 5 days
 [Build] lasts 10 days
 [Build] starts at [Design]'s end
