@@ -1,6 +1,3 @@
-# 008 — Sequence: Search
-
-```plantuml
 @startuml
 title Search Sequence 8
 actor Partner as A
@@ -14,4 +11,3 @@ S --> A : 200 OK
 deactivate S
 note right of S : handled by User
 @enduml
-```
