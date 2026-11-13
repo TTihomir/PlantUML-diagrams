@@ -1,0 +1,3 @@
+@startuml
+!include https://github.com/borisstratus/PlantUML-diagrams-Tihomir/blob/main/008_sequence_search.puml
+@enduml
